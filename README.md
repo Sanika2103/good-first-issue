@@ -19,17 +19,6 @@
 3. Must have GitHub Account 
 4. And thats it !!
 
-
-## Why To Contribute Here After Learning From Experts ?
-1. As you have learnt from the much experienced persons than me its obvious you will this why should I waste time in contributing here !!
-2. And its prety Obvious I totally agree that 
-3. But just listen to me once and then think decision is  yours !!
-4. I have created this repo only for new learner who are doing there first PR on GIT-HUB 
-5. As doing changes in this repo will help them to gain confidance for making change in codebase of the projects.
-6. And in short  they will get familiar with the  flow of GIT-HUB
-7. So its my kind request please do a PR on this repo by following the steps given below !!
-
-
 ## Steps To be Followed 
 1. Open this repo from the link provided to you or from my profile 
 2. As you see my name and then Name of repo it means that this project is mine ( In simple language )
