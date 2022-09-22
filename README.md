@@ -39,7 +39,7 @@
  13. You just have to copy the code and paste it below as the serial is going on.
  14. You have to update the data as index number which is going on and then you name and we can keep the same remark or you can also write your own !!
  15. This is just to help you learn how to make changes in code 
- 16. Then you have to write what you have changed in this code For eg:- Updated Index.html ( Or any realatable )
+ 16. Then you have to write what you have changed in this code For eg:- Updated FirstContribution.txt
  17. Then you have to click on commit changes 
  18. This will make changes in your codebase but as i am the owner of projects they should be reflected in mine to 
  19. For this you have to create a pull request.
