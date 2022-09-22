@@ -3,15 +3,7 @@
   I am not a PRO but Still as in Open Source Every Contribution counts !!!
   I know you will learn rest things by exploring it on your own !!!
   
-   ## IF you like my efforts dont forget to get connected with me on LinkedIn & GITHUB OR Twitter !!
-   
- <h3>
-<a href="https://www.linkedin.com/in/sanika-patil21/" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/Sanikaa_21?s=08"><img  alt="Twitter" src="https://img.shields.io/badge/Sanikaa_21-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-
-</h3>
- <br>
-
+  
 ## Lets get Started !!!
 
 ## Objectives 
@@ -38,7 +30,7 @@
 7. So its my kind request please do a PR on this repo by following the steps given below !!
 
 
-## Steps To be Followed ( Expecting you have  watched suggested videos )
+## Steps To be Followed 
 1. Open this repo from the link provided to you or from my profile 
 2. As you see my name and then Name of repo it means that this project is mine ( In simple language )
 3. As this project is mine you  cannot make changes in it for this you have to Fork and Clone this project in your own system 
@@ -70,5 +62,12 @@
  
 ### Congrats to these wonderful people who sucessfully merged their first PR !! ✨✨:
 
+ ## If you like my efforts, don't forget to get connected with me on LinkedIn & GITHUB OR Twitter !!
+   
+ <h3>
+<a href="https://www.linkedin.com/in/sanika-patil21/" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/Sanikaa_21?s=08"><img  alt="Twitter" src="https://img.shields.io/badge/Sanikaa_21-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
+</h3>
+ <br>
     
