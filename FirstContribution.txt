@@ -1,1 +1,3 @@
-
+<h3>No:-7</h3>
+<h3>Name:-Chaitrali GInimav</h3> 
+<h3>Remark:-Yes !! I learnerd to Fork a Repo,Clone a Repo,Commit Changes in code and to make a PR !!</h3>
