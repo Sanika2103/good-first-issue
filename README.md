@@ -29,9 +29,9 @@
 7. ( git clone https://github.com/Sanika2103/good-first-issue.git ) This will clone you repo and when you open your github now in repo you will see this repo with you name 
 8. It means that its you code and you can make changes in it !!
 9. Then you have  to open the index.html file 
-10.From this file you dont need to understand any code it just an example of codebase
-11.You have to click the eidt (pencil) option and 
-12.You have  to scroll down and you will get the below code 
+10. From this file you dont need to understand any code it just an example of codebase
+11. You have to click the eidt (pencil) option and 
+12. You have  to scroll down and you will get the below code 
 13. 
         <h3>No:-1</h3>
         <h3>Name:-Sanika Patil</h3> 
