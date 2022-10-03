@@ -15,7 +15,7 @@
 
 ## Prerequisites 
 1. Must have a laptop with an active internet connection
-2. Must have git installed. If not then I suggest you look up a video on youtube for Installing GIT. [Recommended video 1](https://www.youtube.com/watch?v=ON5GAXubt_4) [Recommemnded Video 2](https://www.youtube.com/watch?v=qkbK31dMNfM)
+2. Must have git installed. If not then I suggest you look up a video on youtube for Installing GIT. [Recommended video 1](https://www.youtube.com/watch?v=ON5GAXubt_4) [Recommended Video 2](https://www.youtube.com/watch?v=qkbK31dMNfM)
 3. Must have a GitHub Account 
 4. And thats it !!
 
