@@ -49,9 +49,9 @@
  23. In this way you will be able to Learn about GIT-Basics.
   
  
-### Congrats to these wonderful people who sucessfully merged their first PR !! ✨✨:
+### Congrats to these wonderful people who successfully merged their first PR !! ✨✨:
 
- ## If you like my efforts, don't forget connect with me on LinkedIn, GitHub & Twitter(X) !!
+ ## If you like my efforts, don't forget to connect with me on LinkedIn, GitHub & Twitter(X) !!
    
  <h3>
 <a href="https://www.linkedin.com/in/sanika-patil21/" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
