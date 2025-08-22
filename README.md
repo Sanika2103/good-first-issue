@@ -23,21 +23,28 @@ I know you will be able to learn the rest of the things by exploring github on y
 
 ## Steps To be Followed
 
-1.  Open this repo from the link provided to you or from my profile
-2.  As you see my name and then name of repo it means that this project is mine ( In simple language )
-3.  As this project is mine you cannot make changes in it for this you have to Fork and Clone this project in your own system
-4.  There is fork option on Top right side of page click on that. ( Your Project is Forked )
-5.  Then you will see green color code button click on that,you will see a link this link is used to clone our project in your local system with the help of git bash
-6.  I am providing the link her just copy the statement in brackets and paste it in git bash. Sometimes ctrl + V don't work there so we can use right click of mouse.
-7.  ( git clone https://github.com/Sanika2103/good-first-issue.git ) This will clone you repo and when you open your github now in repo you will see this repo with you name
-8.  It means that its your copy of the code and you can make changes in it !!
-9.  Then you have to open the index.html file
+1. Open this repo from the link provided to you or from my profile
+2. As you see my name and then name of repo it means that this project is mine ( In simple language )
+3. As this project is mine you cannot make changes in it for this you have to Fork and Clone this project in your own system
+4. There is fork option on Top right side of page click on that. ( Your Project is Forked )
+5. Then you will see green color code button click on that,you will see a link this link is used to clone our project in your local system with the help of git bash
+6. I am providing the link her just copy the statement in brackets and paste it in git bash. Sometimes ctrl + V don't work there so we can use right click of mouse.
+7. `git clone https://github.com/Sanika2103/good-first-issue.git` This will clone you repo and when you open your github now in repo you will see this repo with you name
+8. It means that its your copy of the code and you can make changes in it !!
+9. Then you have to open the index.html file
 10. From this file you don't need to understand any code it just an example of codebase
 11. You have to click the edit (pencil) option and
 12. You have to scroll down and you will get the below code
-13.     ```<h3>No:-1</h3>
-        <h3>Name:-Sanika Patil</h3>
-        <h3>Remark:-Yes !! I learned to Fork a Repo,Clone a Repo,Commit Changes in code and to make a PR !!</h3>```
+
+13. ```html
+    <h3>No:-1</h3>
+    <h3>Name:-Sanika Patil</h3>
+    <h3>
+      Remark:-Yes !! I learned to Fork a Repo,Clone a Repo,Commit Changes in
+      code and to make a PR !!
+    </h3>
+    ```
+
 14. You just have to copy the code and paste it below as the serial is going on.
 15. You have to update the data as index number which is going on and then you name and we can keep the same remark or you can also write your own !!
 16. This is just to help you learn how to make changes in code
@@ -50,13 +57,14 @@ I know you will be able to learn the rest of the things by exploring github on y
 23. Then after creating successful request it will be checked by me and then merged
 24. Like this you will be able to Learn about GIT-Basic
 
-### Congrats to these wonderful people who successfully merged their first PR !! ✨✨:
+### Congrats to these wonderful people who successfully merged their first PR !! ✨✨
 
-## If you like my efforts, don't forget to get connected with me on LinkedIn & GITHUB OR Twitter !!
+## If you like my efforts, don't forget to get connected with me on LinkedIn & GITHUB OR Twitter
 
+<!-- markdownlint-disable MD033 -->
  <h3>
 <a href="https://www.linkedin.com/in/sanika-patil21/" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/Sanikaa_21?s=08"><img  alt="Twitter" src="https://img.shields.io/badge/Sanikaa_21-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 </h3>
- <br>
+<!-- markdownlint-disable MD033 -->
