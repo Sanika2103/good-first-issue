@@ -1,12 +1,13 @@
-# Hey Sanika Here !!
+# Hey Sanika Here
 
 This is a small effort by me to teach some of the required things for using gitHub.
 I myself am not an expert but still as is the case with Open Source, Every little contribution counts
 I know you will be able to learn the rest of the things by exploring github on your own
 
-## Lets get Started !!
+## Lets get Started
 
 ## Objectives
+
 1. To Learn How to Fork a Repo
 2. To Learn How to Clone a Repo in Local System
 3. To Learn How to Create an issue
@@ -14,12 +15,14 @@ I know you will be able to learn the rest of the things by exploring github on y
 5. To Learn How to Create a pull request
 
 ## Prerequisites
+
 1. Must have a laptop with an active internet connection
 2. Must have git installed. If not then I suggest you look up a video on youtube for Installing GIT. [Recommended video 1](https://www.youtube.com/watch?v=ON5GAXubt_4) [Recommended Video 2](https://www.youtube.com/watch?v=qkbK31dMNfM)
 3. Must have a GitHub Account
 4. And thats it !!
 
 ## Steps To be Followed
+
 1.  Open this repo from the link provided to you or from my profile
 2.  As you see my name and then name of repo it means that this project is mine ( In simple language )
 3.  As this project is mine you cannot make changes in it for this you have to Fork and Clone this project in your own system
