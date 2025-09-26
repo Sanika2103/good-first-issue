@@ -1,4 +1,4 @@
-# Hey Sanika Here !!
+# Hey Dhruva Here !!
   This is a small effort by me to teach some of the required things for using gitHub.
   I myself am not an expert but still as is the case with Open Source, Every little contributon counts
   I know you will be able to learn the rest of the things by exploring github on your own
@@ -34,7 +34,7 @@
 12. You have  to scroll down and you will get the below code 
 13. 
         <h3>No:-1</h3>
-        <h3>Name:-Sanika Patil</h3> 
+        <h3>Name:-Dhruva </h3 > 
         <h3>Remark:-Yes !! I learnerd to Fork a Repo,Clone a Repo,Commit Changes in code and to make a PR !!</h3>
  13. You just have to copy the code and paste it below as the serial is going on.
  14. You have to update the data as index number which is going on and then you name and we can keep the same remark or you can also write your own !!
