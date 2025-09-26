@@ -34,7 +34,7 @@
 12. You have  to scroll down and you will get the below code 
 13. 
         <h3>No:-1</h3>
-        <h3>Name:-Dhruva Raj</h3> 
+        <h3>Name:-Dhruva </h3 > 
         <h3>Remark:-Yes !! I learnerd to Fork a Repo,Clone a Repo,Commit Changes in code and to make a PR !!</h3>
  13. You just have to copy the code and paste it below as the serial is going on.
  14. You have to update the data as index number which is going on and then you name and we can keep the same remark or you can also write your own !!
