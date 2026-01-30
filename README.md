@@ -1,7 +1,7 @@
 # Hey Sanika Here !!
-  This is a small effort by me to teach some of the required things for using gitHub.
-  I myself am not an expert but still as is the case with Open Source, Every little contributon counts
-  I know you will be able to learn the rest of the things by exploring github on your own
+  This is a small effort by me to teach some of the required things for using GitHub.
+  I myself am not an expert but still as is the case with Open Source, Every little contribution counts.
+  I know you will be able to learn the rest of the things by exploring GitHub on your own.
   
   
 ## Lets get Started !!
@@ -30,12 +30,12 @@
 8. It means that its your copy of the code and you can make changes in it !!
 9. Then you have to open the index.html file 
 10. From this file you dont need to understand any code it just an example of codebase
-11. You have to click the eidt (pencil) option and 
+11. You have to click the edit (pencil) option and
 12. You have  to scroll down and you will get the below code 
 13. 
         <h3>No:-1</h3>
         <h3>Name:-Sanika Patil</h3> 
-        <h3>Remark:-Yes !! I learnerd to Fork a Repo,Clone a Repo,Commit Changes in code and to make a PR !!</h3>
+        <h3>Remark:-Yes !! I learned to Fork a Repo, Clone a Repo, Commit Changes in code and to make a PR !!</h3>
  13. You just have to copy the code and paste it below as the serial is going on.
  14. You have to update the data as index number which is going on and then you name and we can keep the same remark or you can also write your own !!
  15. This is just to help you learn how to make changes in code 
@@ -45,11 +45,11 @@
  19. For this you have to create a pull request.
  20. You have to go to Pull request section and then click on new pull request. 
  21. And Tell about changes you did and something link that 
- 22. Then after creating sucessfull request it will be checked by me and then merged
+ 22. Then after creating a successful request it will be checked by me and then merged
  23. Like this you will be able to  Learn about GIT-Basic 
   
  
-### Congrats to these wonderful people who sucessfully merged their first PR !! ✨✨:
+### Congrats to these wonderful people who successfully merged their first PR !! ✨✨:
 
  ## If you like my efforts, don't forget to get connected with me on LinkedIn & GITHUB OR Twitter !!
    
