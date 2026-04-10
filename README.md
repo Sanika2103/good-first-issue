@@ -1,6 +1,6 @@
 # Hey Sanika Here !!
   This is a small effort by me to teach some of the required things for using gitHub.
-  I myself am not an expert but still as is the case with Open Source, Every little contributon counts
+  I myself am not an expert, but still as is the case with Open Source, Every little contributon counts
   I know you will be able to learn the rest of the things by exploring github on your own
   
   
