@@ -1,3 +1,7 @@
+Bhaskar V Pawar
+Remark:- Yes I learnt to Fork a Repo, Clone it, and Commit changes in code to make a PR. This is my first PR; along the way I have also improved the Contibution.md file by adding some more details on how to contribute. 
+Thanks for the info Sanika.
+=======
  ayushpatil
 <h3>Roll No6:-1</h3>
 <h3>Name:-ayush Patil</h3> 

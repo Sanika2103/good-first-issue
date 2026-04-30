@@ -18,7 +18,7 @@ Install Git from this link:- <https://git-scm.com/downloads>
 To check the Git version
 
 ```bash
-git --vesrion
+git --version
 ```
 
 To set the global Git username & email address
@@ -30,19 +30,21 @@ git config --global user.email "your email"
 
 ## STEPS to contribute
 
-1. Clone the repository using HTTPS.
+1. Fork the repository.
+
+2. Clone your repository using HTTPS.
 
 ```bash
-git clone https://github.com/CuriousGrids/FirstTimers.git
+git clone https://github.com/Username/YourRepository.git
 ```
 
-2. Create a new branch.
+3. Create a new branch.
 
 ```bash
 git branch YourBranchName
 ```
 
-3. Shift to that branch from `main` branch.
+4. Shift to that branch from `main` branch.
 
 ```bash
 git checkout YourBranchName
@@ -50,23 +52,23 @@ git checkout YourBranchName
 
 Add your name under `contributors list` in README.md with format `FirstName_LastName`
 
-4. Add all the changes you've made.
+5. Add all the changes you've made.
 
 ```bash
 git add .
 ```
 
-5. Make a commit with a message of the changes you've done.
+6. Make a commit with a message of the changes you've done.
 
 ```bash
-git commit -m 'your_message'
+git commit -m "your message"
 ```
 
-6. Push your changes to your fork.
+7. Push your changes to your fork.
 
 ```bash
-git push
+git push -u origin YourBranchName
 ```
 
-7. Make a pull request in GitHub, and you're done! You have done your first contribution to our project! 🎉
+8. Make a pull request in GitHub, and you're done! You have done your first contribution to our project! 🎉
 
