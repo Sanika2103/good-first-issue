@@ -1,4 +1,7 @@
- ayushpatil
+<h3>No:-1</h3>
+<h3>Name:-Sanika Patil</h3> 
+<h3>Remark:-Yes !! I learnerd to Fork a Repo,Clone a Repo,Commit Changes in code and to make a PR !!</h3>
+ayushpatil
 <h3>Roll No6:-1</h3>
 <h3>Name:-ayush Patil</h3> 
 <h3>Remark:-Yes !! I learnerd to Fork a Repo,Clone a Repo,Commit Changes in code and to make a PR !!</h3>
