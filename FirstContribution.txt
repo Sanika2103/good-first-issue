@@ -10,7 +10,7 @@ KedarDevOps
 =======
 Sudarshan
 <h3>Roll No:-11</h3>
-<h3>Name:-G Sudarshan</h3> 
+<h3>Name:-G sudarshan</h3> 
 =======
 main
 <h3>Roll No:-53</h3>
@@ -28,3 +28,6 @@ main
 <h3>Remark:-Yes !! I learnerd to Fork a Repo,Clone a Repo,Commit Changes in code and to make a PR !!</h3>
 main
 main
+<h3>No:-1</h3>
+<h3>Name:-karansingh</h3> 
+<h3>Remark:-Yes !! I learnerd to Fork a Repo,Clone a Repo,Commit Changes in code and to make a PR !!</h3>
