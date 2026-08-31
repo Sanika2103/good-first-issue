@@ -18,7 +18,7 @@ main
 =======
  FeatureByAshwin
 <h3>No:-100</h3>
-<h3>Name:-Ashwin Taras</h3> 
+<h3>Name:</h3> 
 =======
 <h3>Roll No:-52</h3>
 <h3>Name:-pt33</h3> 
@@ -28,3 +28,6 @@ main
 <h3>Remark:-Yes !! I learnerd to Fork a Repo,Clone a Repo,Commit Changes in code and to make a PR !!</h3>
 main
 main
+<h3>No:-1</h3>
+<h3>Name:-Prathmesh Kudale</h3> 
+<h3>Remark:-Yes !! I learnerd to Fork a Repo,Clone a Repo,Commit Changes in code and to make a PR !!</h3>
