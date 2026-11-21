@@ -40,7 +40,7 @@ This is a small effort to teach you the basics of using GitHub. I'm not an exper
 12. Scroll down until you see this piece of code:
     ```html
     <h3>No:- 1</h3>
-    <h3>Name:- Sanika Patil</h3> 
+    <h3>Name:- Mahim Vekhande</h3> 
     <h3>Remark:- Yes!! I learned to Fork, Clone, Commit, and make a Pull Request!!</h3>
     ```
 13. Copy those three lines and paste them right below the last entry.
